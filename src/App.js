@@ -20,7 +20,7 @@ function App() {
       {/* <Title/> */}
       {/* <Comments/> */}
       {/* <Counter/> */}
-      <ModalWind/>
+      {/* <ModalWind/> */}
     </>
   );
 }

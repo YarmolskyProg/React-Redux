@@ -74,11 +74,6 @@ function App() {
             ))
         }
       </div>
-      <ul className="pagination">
-        <li>1</li>
-        <li className="active">2</li>
-        <li>3</li>
-      </ul>
     </div>
   );
 }

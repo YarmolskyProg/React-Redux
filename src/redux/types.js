@@ -1,0 +1,7 @@
+export const ADD_LIKES='ADD_LIKES'
+export const REMOVE_LIKES='REMOVE_LIKES'
+export const INPUT_TEXT='INPUT_TEXT'
+export const ADD_COMMENT='ADD_COMMENT'
+export const RED_COMMENT='RED_COMMENT'
+export const DELETE_COMMENT='DELETE_COMMENT'
+export const LOAD_COMMENTS='LOAD_COMMENTS'
